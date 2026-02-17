@@ -1,0 +1,1 @@
+SK Crypto Regs: No license for utility &lt; $5M. Costs: $25k MSB. Path: Incorp → Testnet → Mainnet.

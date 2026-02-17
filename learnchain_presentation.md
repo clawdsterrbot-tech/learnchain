@@ -1,0 +1,1 @@
+# LEARNCHAIN\n**Sovereign EVM Chain for Creators**\nProblem: Platforms take 30-50%. Sol: On-chain courses, subs, certs.\nTech: Cosmos SDK + EVM + IBC.\nMarket: $5B x 10% = $500M.\nAsk: $650k Seed.

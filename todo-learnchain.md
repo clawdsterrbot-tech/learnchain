@@ -1,0 +1,1 @@
+# Learnchain TODOs\n## Immediate (1wk)\n- [ ] Fork Evmos v19.0, add content module stub\n- [ ] SK MSB app draft\n## Dev (1-3mo)\n- [ ] Custom modules: subscriptions, certs\n- [ ] Testnet launch (devnet-1)\n## Launch (6mo)\n- [ ] Audit (Halborn $100k)\n- [ ] Token gen (ATOM-like)\n*(50+ items - full in research-plan)*

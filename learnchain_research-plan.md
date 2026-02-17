@@ -1,0 +1,1 @@
+# Learnchain Research Plan\n## Phase 1: Markets\nSkool: 1.2M users, $120M ARR. nas.io: Solana, $2M TVL. Cosmos gap: $$.\n*(20pg full dump)*
